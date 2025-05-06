@@ -8,7 +8,7 @@ const projects = [
     id: '1',
     title: 'Local Bakery Website',
     description: 'Developed a responsive website for a local bakery, showcasing their products and services.',
-    imageUrl: 'https://images.pexels.com/photos/3202595/pexels-photo-3202595.jpeg',
+    imageUrl: 'https://th.bing.com/th/id/OIP.N0TEN9wIteXihkDRAzrGRwHaEo?w=300&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7',
     category: 'Web Development',
     technologies: ['React', 'Tailwind CSS'],
     link: '#',
