@@ -49,7 +49,11 @@ const ProjectCard = ({ project }) => {
             variant="link"
             className="text-blue-400 pl-0 hover:text-blue-300"
           >
-            <a href={project.link} aria-label={`View project: ${project.title}`}>
+            <a 
+            href={project.link} 
+            aria-label={`View project: ${project.title}`}
+             target="_blank"
+            >
               View Project <ChevronRight className="w-4 h-4 ml-1" />
             </a>
           </Button>
